@@ -14,7 +14,8 @@ def parse_vless(line):
     if not m:
         return None
     uuid, host, port, params = m.groups()
-    qs = dict(p.split('=') for p in params.split('&') if '=' in p)
+    qs = dict(p.split('=', 1) for p in params.split('&') if '=' in p)
+
     sni = qs.get('sni') or qs.get('host') or ""
     security = qs.get('security')
     flow = qs.get('flow', '')
