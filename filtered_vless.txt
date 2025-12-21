@@ -1,4 +1,7 @@
+vless://c51fac89-9c57-4416-b48b-c780d6710605@nj.us.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇺🇸[openproxylist.com] vless-US
 vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[openproxylist.com] vless-DE
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=none&type=tcp&encryption=none#🇩🇪[openproxylist.com] vless-DE
-vless://c82d0254-ec06-42d3-bf01-5834cf2865e1@pop.netbazchanell.ir:2087?mode=gun&security=tls&encryption=none&type=grpc#🇨🇦[openproxylist.com] vless-CA
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#🇫🇮[openproxylist.com] vless-FI
+vless://c82d0254-ec06-42d3-bf01-5834cf2865e1@pop.netbazchanell.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc#🇨🇦[openproxylist.com] vless-CA
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ams1.fromblancwithlove.com#🇺🇸[openproxylist.com] vless-US
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ams1.fromblancwithlove.com#🇳🇱[openproxylist.com] vless-NL
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cloudflare.com&type=ws#🇫🇮[openproxylist.com] vless-FI
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@meg3.horiono3.xyz:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=cf4d#🇩🇪[openproxylist.com] vless-DE
