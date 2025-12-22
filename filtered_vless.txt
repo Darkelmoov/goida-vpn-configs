@@ -1,7 +1,7 @@
-vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp&encryption=none#🇹🇷[openproxylist.com] vless-TR#کانفیگ_پرسرعت
-vless://05ac6b99-cd6d-4e08-9fb5-2fdcddbe0a13@subeight2.iranfreedomserver.com:7005?security=reality&type=tcp&sni=refersion.com&fp=firefox&pbk=S-a7p-Aa6LB0aT-t4PBKtH4ruvuiaNktNFxK8NFRaQs&encryption=none#🇩🇪[openproxylist.com] vless-DE#کانفیگ_پرسرعت
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[openproxylist.com] vless-DE
-vless://c82d0254-ec06-42d3-bf01-5834cf2865e1@pop.netbazchanell.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=web.max.ru#🇨🇦[openproxylist.com] vless-CA
+vless://c82d0254-ec06-42d3-bf01-5834cf2865e1@pop.netbazchanell.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc#🇨🇦[openproxylist.com] vless-CA
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ams1.fromblancwithlove.com#🇺🇸[openproxylist.com] vless-US
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&amp;alpn=h2&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ams1.fromblancwithlove.com#🇳🇱[openproxylist.com] vless-NL
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/&security=&encryption=none&host=cloudflare.com&type=ws#🇫🇮[openproxylist.com] vless-FI
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&security=none&type=ws&host=cloudflare.com&path=/#🇫🇮[openproxylist.com] vless-FI
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&amp;encryption=none&amp;pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=i2pd.website&amp;sid=55e6af1a35e64a98#🇮🇱[openproxylist.com] vless-IL
+vless://ca14b15a-50d5-4e2c-9ebd-85b2d0dd1651@dedi.netbazchanell.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=api-yandex.maps.ru#🇫🇮[openproxylist.com] vless-FI
