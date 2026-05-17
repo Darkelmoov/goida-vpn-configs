@@ -1,10 +1,4 @@
-vless://b9d56e59-02ee-4af0-9963-b3650f8a1387@pivo5.ikisky.com:443?security=reality&encryption=none&echfq=none&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pivo5.ikisky.com&sid=49c667cd18477438#🇩🇪[openproxylist.com] vless-DE
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ee18.mechvpn.online:443?allowInsecure=0&sni=ee18.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇪🇪[openproxylist.com] vless-EE
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪[openproxylist.com] vless-GE
-vless://2bd9c075-e47a-46d8-a777-93baa759d8aa@ohio1.ap221.com:443?sni=ohio.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸[openproxylist.com] vless-US
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽[openproxylist.com] vless-MX
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ee18.mechvpn.online:443?allowInsecure=0&sni=ee18.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇪🇪[openproxylist.com] vless-EE
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🇹🇭[openproxylist.com] vless-TH
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#🇦🇱[openproxylist.com] vless-AL
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#🇬🇧[openproxylist.com] vless-GB
-vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#🇭🇰[openproxylist.com] vless-HK
 vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tcp&security=reality&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=174c6cf22e22#🇫🇮[openproxylist.com] vless-FI
