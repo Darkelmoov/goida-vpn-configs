@@ -1,8 +1,8 @@
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?type=tcp&security=reality&sni=vltch.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇱🇹[openproxylist.com] vless-LT
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇬🇪[openproxylist.com] vless-GE
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#🇵🇱[openproxylist.com] vless-PL
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv181.towersflowerss.com:443?encryption=none&path=/&security=none&type=ws#🇵🇱[openproxylist.com] vless-PL
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@bsex.serv00.net:50401?encryption=none&path=/&security=none&type=ws#🇵🇱[openproxylist.com] vless-PL
-vless://b43a13be-150c-4a6a-8501-b71c1b6476fb@srv181.towersflowerss.com:443?type=ws&host=&path=/#🇵🇱[openproxylist.com] vless-PL
-vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=pl1.astrocore.cloud&type=tcp#🇵🇱[openproxylist.com] vless-PL
-vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&security=reality&sid=88acba&sni=cloudflare.com&type=tcp#🇫🇮[openproxylist.com] vless-FI
+vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@usvless.yydzx.xyz:17594?allowInsecure=0&sni=usvless.yydzx.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇺🇸[openproxylist.com] vless-US
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=0&sni=pl194.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇵🇱[openproxylist.com] vless-PL
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@nl1.skysafe.online:8443?security=reality&type=tcp&sni=nl1.skysafe.online&fp=chrome&flow=xtls-rprx-vision&sid=844dfa3681e4c4&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&encryption=none#🇳🇱[openproxylist.com] vless-NL
+vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=88acba&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&encryption=none#🇫🇮[openproxylist.com] vless-FI
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽[openproxylist.com] vless-MX
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇬🇧[openproxylist.com] vless-GB
