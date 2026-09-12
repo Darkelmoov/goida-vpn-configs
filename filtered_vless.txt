@@ -1,6 +1,8 @@
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?alpn=h2%2Chttp/1.1&fp=chrome&security=tls#🇩🇪[openproxylist.com] vless-DE
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇪[openproxylist.com] vless-SE
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@austria-2.moritech.net:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇸🇪[openproxylist.com] vless-SE
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=v2ray.simspeedup.com&path=/ws#🇹🇭[openproxylist.com] vless-TH
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic.failspace.top:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇧[openproxylist.com] vless-GB
-vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇳🇱[openproxylist.com] vless-NL
+vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@support.zoom.us:80?type=ws&encryption=none&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&security=none#🏳[openproxylist.com] vless-
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🏳[openproxylist.com] vless-
+vless://79f98593-6a21-4783-a425-3d5609a79df1@app.life-pro.ir:8082?security=none&encryption=none&headerType=none&type=tcp#🇹🇷[openproxylist.com] vless-TR
+vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🏳[openproxylist.com] vless-
+vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@vj37-1936vtw.fincore.top:443?security=reality&encryption=none&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=14156e3ac23212cc#🇭🇰[openproxylist.com] vless-HK
